@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nusaik Ahamath 👋</h1>
-<h3 align="center">Data Science Undergraduate | Python Enthusiast | Cloud Learner</h3>
+<h3 align="center">Data Science Undergraduate | Ai Enthusiast | Web developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nusaik-aj&label=Profile%20views&color=0e75b6&style=flat" />
