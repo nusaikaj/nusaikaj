@@ -6,51 +6,46 @@
 ## 🚀 About Me
 
 - 🎓 Data Science Undergraduate from Sri Lanka  
-- 📈 Interested in **Data Analysis, Machine Learning & Artificial Intelligence**  
-- 🐍 Currently learning **Python, Statistics, and Data Visualization**  
-- 🧠 Exploring **AI models, analytics, and real-world datasets**  
-- 🤝 Always excited to **learn, build, and collaborate**
+- 📈 Interested in Data Analysis, Machine Learning & AI  
+- 🐍 Learning Python, Statistics, and Data Visualization  
+- 🧠 Exploring real-world datasets and AI models  
+- 🤝 Open to collaboration and continuous learning  
 
 ---
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,html,css,js,github,aws,vscode" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-## 📊 GitHub Stats (AI & Data Science Theme)
+## 📊 GitHub Stats
 
-<p align="center">
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nusaikaj&show_icons=true&theme=tokyonight)
-
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nusaikaj&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🧠 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusaikaj&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nusaikaj&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nusaikaj&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=nusaikaj&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nusaikaj&theme=tokyonight&no-frame=true&row=1" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nusaikaj&theme=tokyonight)
 
 ---
 
@@ -58,7 +53,7 @@
 
 - 📊 Data Analysis Projects  
 - 🤖 Machine Learning Fundamentals  
-- 📉 Visualization & Insights  
+- 📈 Visualization & Insights  
 - 🌐 Data-driven Web Applications  
 
 ---
@@ -72,10 +67,8 @@
 
 ## 👀 Profile Views
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nusaikaj&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=nusaikaj&color=blueviolet&style=flat)
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*  
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
