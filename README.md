@@ -1,44 +1,80 @@
-<h1 align="center">Hi, I'm Nusaik Ahamath 👋</h1>
-<h3 align="center">Data Science Undergraduate | Ai Enthusiast | Web developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nusaik-aj&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<h1 align="center">Hi 👋, I'm Nusaik Ahamath</h1>
+<h3 align="center">📊 Data Science Undergraduate | 🤖 AI & ML Enthusiast | 🇱🇰 Sri Lanka</h3>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
+
 - 🎓 Data Science Undergraduate from Sri Lanka  
-- 📊 Interested in Data Analysis, Machine Learning & AI  
-- 🐍 Learning Python, Statistics, and Data Visualization  
-- ☁️ Exploring Artificial Inteligent  
-- 🤝 Always excited to learn and collaborate  
+- 📈 Interested in **Data Analysis, Machine Learning & Artificial Intelligence**  
+- 🐍 Currently learning **Python, Statistics, and Data Visualization**  
+- 🧠 Exploring **AI models, analytics, and real-world datasets**  
+- 🤝 Always excited to **learn, build, and collaborate**
 
 ---
 
-### 🛠️ Languages & Tools
-<p>
+## 🛠️ Languages & Tools
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,r,html,css,js,github,aws,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nusaik-aj&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nusaik-aj&theme=dark" height="160"/>
+## 📊 GitHub Stats (AI & Data Science Theme)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nusaikaj&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=nusaik-aj&theme=darkhub&row=1&no-frame=true"/>
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusaikaj&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/nusaik-ahamath
+## 🔥 GitHub Contribution Streak
 
-- 📧 Email: nusaikahamathstr@gmail.com
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nusaikaj&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nusaikaj&theme=tokyonight&no-frame=true&row=1" />
+</p>
+
+---
+
+## 📌 Current Focus
+
+- 📊 Data Analysis Projects  
+- 🤖 Machine Learning Fundamentals  
+- 📉 Visualization & Insights  
+- 🌐 Data-driven Web Applications  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/nusaik-ahamath  
+- 📧 Email: nusaikahamathstr@gmail.com  
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nusaikaj&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*  
