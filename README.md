@@ -39,7 +39,9 @@
 
 ### 🏆 GitHub Trophies
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=nusaik-aj&theme=darkhub&row=1&no-frame=true"/>
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nusaik_aj&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ---
