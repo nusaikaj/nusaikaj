@@ -63,10 +63,23 @@ My goal is to gain industry experience, work with real-world datasets, solve mea
 ### 🐍 Programming & Data Science
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="65" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pandas/pandas-original.svg" width="65" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/numpy/numpy-original.svg" width="65" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/scikitlearn/scikitlearn-original.svg" width="65" />
+</p>
+
+<p align="center">
+  <b>Python</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>Pandas</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>NumPy</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>Scikit-learn</b>
 </p>
 
 ---
@@ -74,15 +87,19 @@ My goal is to gain industry experience, work with real-world datasets, solve mea
 ### 🤖 Machine Learning & AI
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-EA4335?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model%20Evaluation-00A67E?style=for-the-badge" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/scikitlearn/scikitlearn-original.svg" width="65" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/opencv/opencv-original.svg" width="65" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Supervised%20Learning-7B61FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Unsupervised%20Learning-6C5CE7?style=flat-square" />
+  <b>Scikit-learn</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>OpenCV</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>Supervised Learning</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>NLP</b>
 </p>
 
 ---
@@ -90,15 +107,23 @@ My goal is to gain industry experience, work with real-world datasets, solve mea
 ### 🗄️ Database & Data Engineering
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" width="65" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mongodb/mongodb-original.svg" width="65" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Transformation-00A67E?style=for-the-badge" />
+  <b>MySQL</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>MongoDB</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>SQL</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>ETL</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>AWS</b>
 </p>
 
 ---
@@ -106,11 +131,25 @@ My goal is to gain industry experience, work with real-world datasets, solve mea
 ### 📊 Data Visualization & Business Intelligence
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/powerbi/powerbi-original.svg" width="65" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tableau/tableau-original.svg" width="65" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/matplotlib/matplotlib-original.svg" width="65" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/plotly/plotly-original.svg" width="65" />
+</p>
+
+<p align="center">
+  <b>Power BI</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>Tableau</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>Matplotlib</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>Plotly</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>Seaborn</b>
 </p>
 
 ---
@@ -118,15 +157,31 @@ My goal is to gain industry experience, work with real-world datasets, solve mea
 ### 🌐 Web & Application Development
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" width="65" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/css3/css3-original.svg" width="65" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" width="65" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" width="65" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" width="65" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/flask/flask-original.svg" width="65" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <b>HTML</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>CSS</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>JavaScript</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>React</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>Node.js</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>Flask</b>
 </p>
 
 ---
@@ -134,36 +189,23 @@ My goal is to gain industry experience, work with real-world datasets, solve mea
 ### 🛠️ Tools & Development Environment
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-### 🎯 Core Technology Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" width="65" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/github/github-original.svg" width="65" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vscode/vscode-original.svg" width="65" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg" width="65" />
 </p>
 
 <p align="center">
-  <b>Python</b> •
-  <b>SQL</b> •
-  <b>Machine Learning</b> •
-  <b>Data Analytics</b> •
-  <b>Power BI</b>
-</p>
-
----
-
-<p align="center">
-  <i>Data → Insights → Models → Real-World Solutions 🚀</i>
+  <b>Git</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>GitHub</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>VS Code</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>Linux</b>
 </p>
 
 ## 🌟 Featured Projects
