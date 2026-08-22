@@ -1,7 +1,11 @@
-# 👋 Hi, I'm Nusaik Ahamath
+<h1 align="center">Hi 👋, I'm Nusaik Ahamath</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Undergraduate;Machine+Learning+Enthusiast;Data+Analytics+%26+Visualization;Building+Real-World+Projects&font=Fira%20Code&center=true&width=650&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+  <strong>Data Science Undergraduate • Machine Learning • Data Analytics • AI</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Undergraduate;Machine+Learning+Enthusiast;Data+Analytics+%26+Visualization;Building+Real-World+Data+Projects&font=Fira+Code&center=true&width=700&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
 </p>
 
 <p align="center">
@@ -11,40 +15,56 @@
   <a href="https://www.linkedin.com/in/nusaik-ahamath">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.kaggle.com/nusaikahamath">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nusaikaj&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 **Data Science Undergraduate** at Sri Lanka Technology Campus (SLTC)
+I'm a **Data Science undergraduate at Sri Lanka Technology Campus (SLTC)** with a strong interest in **Machine Learning, Data Analytics, Artificial Intelligence, and data-driven application development**.
 
-📊 Interested in **Data Science, Machine Learning, Data Analytics & AI**
+I enjoy transforming raw data into meaningful insights and building practical solutions using Python, SQL, machine learning, and visualization tools.
 
-🐍 Experienced with **Python, Pandas, NumPy, Scikit-learn and SQL**
+### What I Work With
 
-🗄️ Working with **MySQL** and building data-driven applications
+* 🐍 **Python** for data analysis, machine learning, automation, and application development
+* 📊 **Pandas & NumPy** for data manipulation and preprocessing
+* 🤖 **Scikit-learn** for machine learning and model evaluation
+* 🗄️ **SQL & MySQL** for data storage and analytical workflows
+* 📈 **Power BI, Matplotlib, Seaborn & Plotly** for visualization
+* 🔄 **ETL pipelines** for transforming raw data into structured datasets
+* 🌐 **Flask & Web Technologies** for building data-driven applications
 
-📈 Interested in **Data Visualization, Power BI and analytical storytelling**
+### 🎯 Career Focus
 
-🔧 Building practical projects involving **ML, ETL pipelines, NLP and data analysis**
+Currently seeking opportunities in:
 
-🎯 Currently seeking opportunities to gain **real-world Data Science / Machine Learning experience**
+**Data Science • Machine Learning • Data Analytics • AI**
+
+My goal is to gain industry experience, work with real-world datasets, solve meaningful problems, and continuously improve my technical and analytical skills.
 
 ---
 
 ## 🧠 Technical Skills
 
-### 📊 Data Science & Machine Learning
+### 📊 Data Science & Analytics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=numpy" />
-  <img src="https://skillicons.dev/icons?i=pandas" />
-  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn" />
 </p>
 
-**Python • Pandas • NumPy • Scikit-learn • EDA • Data Cleaning • Machine Learning • Model Evaluation**
+`Python` `Pandas` `NumPy` `Scikit-learn` `EDA` `Data Cleaning` `Data Preprocessing` `Statistical Analysis`
+
+### 🤖 Machine Learning
+
+`Supervised Learning` `Unsupervised Learning` `Classification` `Regression` `Model Evaluation` `Model Validation` `NLP`
 
 ### 🗄️ Databases & Data Engineering
 
@@ -52,68 +72,87 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-**SQL • MySQL • MongoDB • ETL • Data Transformation**
+`SQL` `MySQL` `MongoDB` `ETL` `Data Transformation` `Relational Databases`
 
-### 📈 Data Visualization & BI
+### 📈 Data Visualization & Business Intelligence
 
-**Power BI • Tableau • Matplotlib • Seaborn • Plotly**
+`Power BI` `Tableau` `Matplotlib` `Seaborn` `Plotly`
 
 ### 🌐 Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,flask" />
+  <img src="https://skillicons.dev/icons?i=flask,html,css,js,react,nodejs" />
 </p>
 
-**Flask • React • JavaScript • HTML • CSS • Node.js**
+`Flask` `HTML` `CSS` `JavaScript` `React` `Node.js`
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools & Environment
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
-**Git • GitHub • VS Code • Linux**
+`Git` `GitHub` `VS Code` `Linux`
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 📈 Banking Transaction ETL Pipeline
 
 **Python • Pandas • MySQL • Power BI**
 
-* Built an end-to-end ETL pipeline processing **10,000+ transaction records**
-* Transformed raw transaction data into a structured relational database
+> An end-to-end data engineering and analytics project focused on transforming raw banking transaction data into actionable insights.
+
+**Highlights**
+
+* Processed **10,000+ transaction records**
+* Built data cleaning and transformation workflows using Python and Pandas
+* Designed a structured relational schema using MySQL
 * Developed a Power BI dashboard with **5+ KPIs**
 * Identified an **18% increase in weekend transaction volume**
+* Implemented rule-based checks to identify suspicious transaction patterns
 
-🔗 [View Project](https://github.com/nusaikaj/banking-transaction-etl-pipeline)
+🔗 **Repository:**
+https://github.com/nusaikaj/banking-transaction-etl-pipeline
 
 ---
 
 ### 🛡️ Email Fraud Detection System
 
-**Python • Flask • Scikit-learn • NLP**
+**Python • Scikit-learn • NLP • Flask**
 
-* Developed a machine learning-based email fraud detection web application
-* Achieved **94% classification accuracy** on a labeled dataset of 1,000+ emails
-* Applied NLP preprocessing and TF-IDF vectorization
-* Built a Flask interface for real-time predictions
+> A machine learning web application designed to classify suspicious and legitimate emails.
 
-🔗 [View Project](https://github.com/nusaikaj/Email-Fraud-Detection-System)
+**Highlights**
+
+* Trained a classification model on **1,000+ labeled emails**
+* Achieved **94% classification accuracy**
+* Applied NLP preprocessing and **TF-IDF vectorization**
+* Built a Flask-based interface for real-time predictions
+* Combined machine learning with a practical web application
+
+🔗 **Repository:**
+https://github.com/nusaikaj/Email-Fraud-Detection-System
 
 ---
 
 ### 🧠 Handwritten Digit Recognition
 
-**Python • Neural Networks • MNIST**
+**Python • Neural Network • MNIST**
 
-* Developed a neural network for handwritten digit classification
-* Achieved **98.2% test accuracy** on the MNIST dataset
+> A computer vision project focused on handwritten digit classification.
+
+**Highlights**
+
+* Built a neural network model using Python
+* Achieved **98.2% test accuracy**
+* Used the MNIST dataset containing handwritten digit images
 * Applied image preprocessing and normalization
-* Evaluated performance using a confusion matrix and precision/recall
+* Evaluated the model using confusion matrix and precision/recall
 
-🔗 [View Project](https://github.com/nusaikaj/digit_prediction)
+🔗 **Repository:**
+https://github.com/nusaikaj/digit_prediction
 
 ---
 
@@ -121,38 +160,48 @@
 
 **Python • Speech Recognition • Text-to-Speech**
 
-* Developed a hybrid voice and text-based assistant
-* Implemented speech recognition and text-to-speech functionality
-* Added web browsing and OS-level automation
-* Supports multiple command and query types
+> A hybrid voice and text-based assistant designed to perform automated tasks and respond to user queries.
 
-🔗 [View Project](https://github.com/nusaikaj/ai_hybrid_voice-assistant)
+**Highlights**
+
+* Implemented voice recognition and text-to-speech
+* Supported both voice and text commands
+* Integrated web browsing capabilities
+* Added OS-level automation
+* Supports **15+ query and command types**
+
+🔗 **Repository:**
+https://github.com/nusaikaj/ai_hybrid_voice-assistant
 
 ---
 
 ## 🎓 Education
 
-**Sri Lanka Technology Campus (SLTC)**
-BSc (Hons) in Data Science
+### Sri Lanka Technology Campus — SLTC
+
+**BSc (Hons) in Data Science**
+
 📍 Colombo, Sri Lanka
-📊 Current GPA: **3.4 / 4.0**
-🎓 Expected Graduation: **2028**
+📊 **Current GPA: 3.4 / 4.0**
+🎓 **Expected Graduation: 2028**
 
 ---
 
 ## 📜 Certifications
 
-* **AI/ML Engineering** — Sri Lanka Institute of Information Technology
-* **Data Engineer on AWS** — AWS Skill Builder
-* **Web Development** — University of Moratuwa
-* **Fundamentals of Generative AI** — GUVI
+| Certification                 | Organization                                  |
+| ----------------------------- | --------------------------------------------- |
+| AI/ML Engineering             | Sri Lanka Institute of Information Technology |
+| Data Engineer on AWS          | AWS Skill Builder                             |
+| Web Development               | University of Moratuwa                        |
+| Fundamentals of Generative AI | GUVI                                          |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nusaikaj&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nusaikaj&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nusaikaj&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 
@@ -170,11 +219,22 @@ BSc (Hons) in Data Science
 
 ---
 
+## 📈 What I'm Currently Working On
+
+* 🔍 Improving my **Machine Learning and Data Analytics** skills
+* 🧠 Exploring practical **AI/ML applications**
+* 🗄️ Strengthening **SQL, databases and data engineering**
+* 📊 Building interactive **data visualization dashboards**
+* 🚀 Developing real-world projects for my portfolio
+* 💼 Preparing for **Data Science / ML / Data Analytics internships**
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://nusaik-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-58A6FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-58A6FF?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/nusaik-ahamath">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -182,16 +242,17 @@ BSc (Hons) in Data Science
   <a href="https://www.kaggle.com/nusaikahamath">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
+  <a href="mailto:nusaikahamathstr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 💡 Currently
+<p align="center">
+  <i>Building. Learning. Analyzing. Improving.</i>
+</p>
 
-🔭 Building data-driven and machine learning projects
-
-🌱 Improving my skills in **Machine Learning, SQL, Data Analytics & AI**
-
-🎯 Looking for **Data Science / Machine Learning / Data Analytics internship opportunities**
-
-⭐ Feel free to explore my repositories and connect with me!
+<p align="center">
+  ⭐ Feel free to explore my repositories and connect with me!
+</p>
