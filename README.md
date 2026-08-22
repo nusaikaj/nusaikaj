@@ -28,27 +28,104 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Science undergraduate at Sri Lanka Technology Campus (SLTC)** with a strong interest in **Machine Learning, Data Analytics, Artificial Intelligence, and data-driven application development**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-Undergraduate-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-Focused-00A67E?style=for-the-badge" />
+</p>
 
-I enjoy transforming raw data into meaningful insights and building practical solutions using Python, SQL, machine learning, and visualization tools.
+<p align="center">
+  <strong>🎓 Data Science Undergraduate @ Sri Lanka Technology Campus</strong>
+</p>
 
-### What I Work With
+<p align="center">
+  I'm passionate about turning <b>raw data</b> into meaningful insights,
+  building <b>machine learning solutions</b>, and developing
+  <b>data-driven applications</b>.
+</p>
 
-* 🐍 **Python** for data analysis, machine learning, automation, and application development
-* 📊 **Pandas & NumPy** for data manipulation and preprocessing
-* 🤖 **Scikit-learn** for machine learning and model evaluation
-* 🗄️ **SQL & MySQL** for data storage and analytical workflows
-* 📈 **Power BI, Matplotlib, Seaborn & Plotly** for visualization
-* 🔄 **ETL pipelines** for transforming raw data into structured datasets
-* 🌐 **Flask & Web Technologies** for building data-driven applications
+---
 
-### 🎯 Career Focus
+### 🚀 What I Do
 
-Currently seeking opportunities in:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Data Science • Machine Learning • Data Analytics • AI**
+### 📊 Data & Analytics
 
-My goal is to gain industry experience, work with real-world datasets, solve meaningful problems, and continuously improve my technical and analytical skills.
+🔹 Data Cleaning & Preprocessing  
+🔹 Exploratory Data Analysis  
+🔹 Data Visualization  
+🔹 SQL & Database Analysis  
+🔹 Power BI Dashboards  
+🔹 ETL & Data Transformation  
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI & Machine Learning
+
+🔹 Machine Learning  
+🔹 Classification & Regression  
+🔹 Model Evaluation  
+🔹 Natural Language Processing  
+🔹 Predictive Analytics  
+🔹 Real-world ML Applications  
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 Development Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20%26%20AI-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Data-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-AI-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web%20Development-Applications-0E75B6?style=flat-square" />
+</p>
+
+---
+
+### 🎯 Career Goal
+
+<p align="center">
+
+💼 <b>Currently seeking internship opportunities in</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Data%20Analytics-00A67E?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+  <i>
+    My goal is to gain industry experience, work with real-world data,
+    solve meaningful problems, and continuously grow as a data professional.
+  </i>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Learn</b> → 
+  <b>🔨 Build</b> → 
+  <b>📊 Analyze</b> → 
+  <b>🤖 Innovate</b> → 
+  <b>🚀 Grow</b>
+</p>
 
 ---
 
