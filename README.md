@@ -96,82 +96,116 @@ My goal is to gain industry experience, work with real-world datasets, solve mea
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
+
+<p align="center">
+  <i>A collection of my data science, machine learning, and application development projects</i>
+</p>
+
+---
 
 ### 📈 Banking Transaction ETL Pipeline
 
-**Python • Pandas • MySQL • Power BI**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
-> An end-to-end data engineering and analytics project focused on transforming raw banking transaction data into actionable insights.
+> 🔄 **End-to-end ETL & Business Intelligence project** focused on transforming raw banking transaction data into actionable insights.
 
-**Highlights**
+| 🚀 Highlights                               | 📊 Results                                  |
+| ------------------------------------------- | ------------------------------------------- |
+| 🔹 Processed 10,000+ transactions           | 📈 18% weekend transaction spike identified |
+| 🔹 Built ETL workflow using Python & Pandas | 📊 5+ Power BI KPIs                         |
+| 🔹 Designed structured MySQL schema         | 🔍 Suspicious transaction patterns flagged  |
 
-* Processed **10,000+ transaction records**
-* Built data cleaning and transformation workflows using Python and Pandas
-* Designed a structured relational schema using MySQL
-* Developed a Power BI dashboard with **5+ KPIs**
-* Identified an **18% increase in weekend transaction volume**
-* Implemented rule-based checks to identify suspicious transaction patterns
-
-🔗 **Repository:**
-https://github.com/nusaikaj/banking-transaction-etl-pipeline
+🔗 **[View Repository →](https://github.com/nusaikaj/banking-transaction-etl-pipeline)**
 
 ---
 
 ### 🛡️ Email Fraud Detection System
 
-**Python • Scikit-learn • NLP • Flask**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
 
-> A machine learning web application designed to classify suspicious and legitimate emails.
+> 🤖 **Machine Learning + NLP web application** designed to identify fraudulent and legitimate emails.
 
-**Highlights**
+| 🧠 Machine Learning          | ⚡ Application                        |
+| ---------------------------- | ------------------------------------ |
+| 🔹 1,000+ labeled emails     | 🌐 Flask web interface               |
+| 🔹 TF-IDF text vectorization | ⚡ Real-time prediction               |
+| 🔹 NLP preprocessing         | 🎯 Fraud / Legitimate classification |
+| 🔹 Model evaluation          | 📊 **94% classification accuracy**   |
 
-* Trained a classification model on **1,000+ labeled emails**
-* Achieved **94% classification accuracy**
-* Applied NLP preprocessing and **TF-IDF vectorization**
-* Built a Flask-based interface for real-time predictions
-* Combined machine learning with a practical web application
-
-🔗 **Repository:**
-https://github.com/nusaikaj/Email-Fraud-Detection-System
+🔗 **[View Repository →](https://github.com/nusaikaj/Email-Fraud-Detection-System)**
 
 ---
 
 ### 🧠 Handwritten Digit Recognition
 
-**Python • Neural Network • MNIST**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neural%20Network-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MNIST-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-7B61FF?style=for-the-badge" />
+</p>
 
-> A computer vision project focused on handwritten digit classification.
+> ✍️ **Computer Vision & Neural Network project** for automated handwritten digit classification.
 
-**Highlights**
+### 📊 Model Performance
 
-* Built a neural network model using Python
-* Achieved **98.2% test accuracy**
-* Used the MNIST dataset containing handwritten digit images
-* Applied image preprocessing and normalization
-* Evaluated the model using confusion matrix and precision/recall
+<p align="center">
+  <img src="https://img.shields.io/badge/Test%20Accuracy-98.2%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Test%20Images-10%2C000-blue?style=for-the-badge" />
+</p>
 
-🔗 **Repository:**
-https://github.com/nusaikaj/digit_prediction
+**🔬 Key Work**
+
+* 🧹 Image preprocessing & normalization
+* 🧠 Neural network-based classification
+* 📊 Confusion matrix analysis
+* 🎯 Precision & recall evaluation
+
+🔗 **[View Repository →](https://github.com/nusaikaj/digit_prediction)**
 
 ---
 
 ### 🤖 AI Hybrid Voice Assistant
 
-**Python • Speech Recognition • Text-to-Speech**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Speech%20Recognition-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Text--to--Speech-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-00A67E?style=for-the-badge" />
+</p>
 
-> A hybrid voice and text-based assistant designed to perform automated tasks and respond to user queries.
+> 🎙️ **Hybrid voice & text assistant** combining speech recognition, text-to-speech, web browsing, and OS-level automation.
 
-**Highlights**
+| 🎤 Features        | ⚙️ Capabilities              |
+| ------------------ | ---------------------------- |
+| 🗣️ Voice commands | 🌐 Web browsing              |
+| ⌨️ Text commands   | 💻 OS automation             |
+| 🔊 Text-to-speech  | 🔎 15+ query / command types |
 
-* Implemented voice recognition and text-to-speech
-* Supported both voice and text commands
-* Integrated web browsing capabilities
-* Added OS-level automation
-* Supports **15+ query and command types**
+🔗 **[View Repository →](https://github.com/nusaikaj/ai_hybrid_voice-assistant)**
 
-🔗 **Repository:**
-https://github.com/nusaikaj/ai_hybrid_voice-assistant
+---
+
+<p align="center">
+
+### 🚀 More Projects
+
+<a href="https://github.com/nusaikaj?tab=repositories">
+  <img src="https://img.shields.io/badge/🔍_Explore_All_Repositories-58A6FF?style=for-the-badge" />
+</a>
+
+</p>
 
 ---
 
