@@ -221,14 +221,89 @@ My goal is to gain industry experience, work with real-world datasets, solve mea
 
 ---
 
-## 📜 Certifications
+## 🏆 Certifications & Learning
 
-| Certification                 | Organization                                  |
-| ----------------------------- | --------------------------------------------- |
-| AI/ML Engineering             | Sri Lanka Institute of Information Technology |
-| Data Engineer on AWS          | AWS Skill Builder                             |
-| Web Development               | University of Moratuwa                        |
-| Fundamentals of Generative AI | GUVI                                          |
+<p align="center">
+  <i>Continuous learning through industry-focused courses and certifications</i>
+</p>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🤖 AI/ML Engineering
+
+<img src="https://img.shields.io/badge/AI%2FML-Engineering-8A2BE2?style=for-the-badge&logo=googlecolab&logoColor=white" />
+
+**Sri Lanka Institute of Information Technology**
+
+📅 **April 2026**
+
+`Artificial Intelligence` `Machine Learning`
+
+</td>
+
+<td width="50%" align="center">
+
+### ☁️ Data Engineer on AWS
+
+<img src="https://img.shields.io/badge/AWS-Data%20Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+**AWS Skill Builder**
+
+📅 **October 2025**
+
+`AWS` `Data Engineering` `Cloud`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🌐 Web Development
+
+<img src="https://img.shields.io/badge/Web-Development-0A66C2?style=for-the-badge&logo=html5&logoColor=white" />
+
+**University of Moratuwa**
+
+📅 **August 2024**
+
+`HTML` `CSS` `JavaScript` `Web Development`
+
+</td>
+
+<td width="50%" align="center">
+
+### ✨ Fundamentals of Generative AI
+
+<img src="https://img.shields.io/badge/Generative-AI-00A67E?style=for-the-badge&logo=googlebard&logoColor=white" />
+
+**GUVI**
+
+📅 **December 2024**
+
+`Generative AI` `AI Fundamentals`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📚 Learning Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_Machine_Learning-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊_Data_Analytics-0E75B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☁️_Cloud_&_Data_Engineering-FF9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/✨_Generative_AI-00A67E?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>Always learning • Building • Experimenting • Improving 🚀</b>
+</p>
+
 
 ---
 
