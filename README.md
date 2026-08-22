@@ -25,106 +25,123 @@
 </p>
 
 ---
-
-## 👨‍💻 About Me
+## ✨ About Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-Undergraduate-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-Focused-00A67E?style=for-the-badge" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pandas/pandas-original.svg" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/scikitlearn/scikitlearn-original.svg" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" width="55"/>
 </p>
 
 <p align="center">
-  <strong>🎓 Data Science Undergraduate @ Sri Lanka Technology Campus</strong>
+  <strong>Data Science Undergraduate • ML Enthusiast • Data Explorer • Builder</strong>
+</p>
+
+<br>
+
+<p align="center">
+  🎓 Currently pursuing <strong>BSc (Hons) in Data Science</strong> at
+  <strong>SLTC Research University</strong>
 </p>
 
 <p align="center">
-  I'm passionate about turning <b>raw data</b> into meaningful insights,
-  building <b>machine learning solutions</b>, and developing
-  <b>data-driven applications</b>.
-</p>
-
----
-
-### 🚀 What I Do
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Data & Analytics
-
-🔹 Data Cleaning & Preprocessing  
-🔹 Exploratory Data Analysis  
-🔹 Data Visualization  
-🔹 SQL & Database Analysis  
-🔹 Power BI Dashboards  
-🔹 ETL & Data Transformation  
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI & Machine Learning
-
-🔹 Machine Learning  
-🔹 Classification & Regression  
-🔹 Model Evaluation  
-🔹 Natural Language Processing  
-🔹 Predictive Analytics  
-🔹 Real-world ML Applications  
-
-</td>
-</tr>
-</table>
-
----
-
-### 💻 Development Interests
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Data%20%26%20AI-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Data-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-AI-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Web%20Development-Applications-0E75B6?style=flat-square" />
+  I enjoy turning <strong>data → insights → intelligent solutions</strong>.
+  <br>
+  My interests sit at the intersection of
+  <strong>Data Science, Machine Learning, Analytics & Software Development.</strong>
 </p>
 
 ---
 
-### 🎯 Career Goal
+### 🔍 What I'm Curious About
 
 <p align="center">
 
-💼 <b>Currently seeking internship opportunities in</b>
+📊 **How can data explain what's happening?**  
+<br>
+🤖 **How can ML predict what happens next?**  
+<br>
+💡 **How can technology turn those insights into useful products?**
+
+</p>
+
+---
+
+### ⚡ My Current Focus
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="42"/>
+&nbsp; **Python & Data Analysis**
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/scikitlearn/scikitlearn-original.svg" width="42"/>
+&nbsp; **Machine Learning**
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" width="42"/>
+&nbsp; **SQL & Databases**
+
+</p>
+
+<p align="center">
+
+📈 Data Visualization &nbsp;&nbsp; • &nbsp;&nbsp;
+🧠 AI Applications &nbsp;&nbsp; • &nbsp;&nbsp;
+🔄 ETL & Data Pipelines &nbsp;&nbsp; • &nbsp;&nbsp;
+🌐 Data-driven Applications
+
+</p>
+
+---
+
+### 🚀 What I'm Building
+
+<p align="center">
+
+<strong>Real-world projects.</strong>
+<br>
+<strong>Practical ML solutions.</strong>
+<br>
+<strong>Data-driven applications.</strong>
+<br>
+<strong>And a stronger portfolio every day.</strong> 🚀
+
+</p>
+
+---
+
+### 🎯 Looking Ahead
+
+<p align="center">
+
+💼 <strong>Open to Data Science • Machine Learning • Data Analytics Internships</strong>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/Data%20Analytics-00A67E?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge" />
+<i>
+Looking to learn from real-world problems, collaborate with experienced teams,
+and turn my academic knowledge into practical industry experience.
+</i>
 
-</p>
-
-<p align="center">
-  <i>
-    My goal is to gain industry experience, work with real-world data,
-    solve meaningful problems, and continuously grow as a data professional.
-  </i>
 </p>
 
 ---
 
 <p align="center">
-  <b>💡 Learn</b> → 
-  <b>🔨 Build</b> → 
-  <b>📊 Analyze</b> → 
-  <b>🤖 Innovate</b> → 
-  <b>🚀 Grow</b>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:58A6FF,100:8A2BE2&height=3&section=header"/>
+</p>
+
+<p align="center">
+  <strong>「 Learn → Build → Experiment → Improve 」</strong>
 </p>
 
 ---
