@@ -63,14 +63,10 @@ My goal is to gain industry experience, work with real-world datasets, solve mea
 ### 🐍 Programming & Data Science
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn" />
-</p>
-
-<p align="center">
-  <b>Python</b> &nbsp; • &nbsp;
-  <b>Pandas</b> &nbsp; • &nbsp;
-  <b>NumPy</b> &nbsp; • &nbsp;
-  <b>Scikit-learn</b>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ---
@@ -78,14 +74,15 @@ My goal is to gain industry experience, work with real-world datasets, solve mea
 ### 🤖 Machine Learning & AI
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,opencv" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-EA4335?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-00A67E?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Supervised_Learning-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Unsupervised_Learning-7B61FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/NLP-EA4335?style=flat-square" />
-  <img src="https://img.shields.io/badge/Model_Evaluation-00A67E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Supervised%20Learning-7B61FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Unsupervised%20Learning-6C5CE7?style=flat-square" />
 </p>
 
 ---
@@ -93,15 +90,15 @@ My goal is to gain industry experience, work with real-world datasets, solve mea
 ### 🗄️ Database & Data Engineering
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 <p align="center">
-  <b>SQL</b> &nbsp; • &nbsp;
-  <b>MySQL</b> &nbsp; • &nbsp;
-  <b>MongoDB</b> &nbsp; • &nbsp;
-  <b>ETL</b> &nbsp; • &nbsp;
-  <b>Data Transformation</b>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Transformation-00A67E?style=for-the-badge" />
 </p>
 
 ---
@@ -109,19 +106,11 @@ My goal is to gain industry experience, work with real-world datasets, solve mea
 ### 📊 Data Visualization & Business Intelligence
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=matplotlib,plotly" />
-</p>
-
-<p align="center">
-  <b>Power BI</b> &nbsp; • &nbsp;
-  <b>Tableau</b> &nbsp; • &nbsp;
-  <b>Matplotlib</b> &nbsp; • &nbsp;
-  <b>Seaborn</b> &nbsp; • &nbsp;
-  <b>Plotly</b>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 ---
@@ -129,16 +118,15 @@ My goal is to gain industry experience, work with real-world datasets, solve mea
 ### 🌐 Web & Application Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,flask" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <p align="center">
-  <b>HTML5</b> &nbsp; • &nbsp;
-  <b>CSS3</b> &nbsp; • &nbsp;
-  <b>JavaScript</b> &nbsp; • &nbsp;
-  <b>React</b> &nbsp; • &nbsp;
-  <b>Node.js</b> &nbsp; • &nbsp;
-  <b>Flask</b>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
 ---
@@ -146,14 +134,10 @@ My goal is to gain industry experience, work with real-world datasets, solve mea
 ### 🛠️ Tools & Development Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-<p align="center">
-  <b>Git</b> &nbsp; • &nbsp;
-  <b>GitHub</b> &nbsp; • &nbsp;
-  <b>VS Code</b> &nbsp; • &nbsp;
-  <b>Linux</b>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -161,14 +145,18 @@ My goal is to gain industry experience, work with real-world datasets, solve mea
 ### 🎯 Core Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,mysql,powerbi" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 <p align="center">
-  <b>Python</b> &nbsp; • &nbsp;
-  <b>SQL</b> &nbsp; • &nbsp;
-  <b>Machine Learning</b> &nbsp; • &nbsp;
-  <b>Data Analytics</b> &nbsp; • &nbsp;
+  <b>Python</b> •
+  <b>SQL</b> •
+  <b>Machine Learning</b> •
+  <b>Data Analytics</b> •
   <b>Power BI</b>
 </p>
 
@@ -177,9 +165,6 @@ My goal is to gain industry experience, work with real-world datasets, solve mea
 <p align="center">
   <i>Data → Insights → Models → Real-World Solutions 🚀</i>
 </p>
-
-
----
 
 ## 🌟 Featured Projects
 
