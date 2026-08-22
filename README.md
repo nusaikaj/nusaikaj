@@ -54,45 +54,125 @@ My goal is to gain industry experience, work with real-world datasets, solve mea
 
 ## 🧠 Technical Skills
 
-### 📊 Data Science & Analytics
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn" />
+<p align="center">
+  <i>Technologies and tools I use to build, analyze, and solve real-world problems</i>
 </p>
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `EDA` `Data Cleaning` `Data Preprocessing` `Statistical Analysis`
+---
 
-### 🤖 Machine Learning
+### 🐍 Programming & Query Languages
 
-`Supervised Learning` `Unsupervised Learning` `Classification` `Regression` `Model Evaluation` `Model Validation` `NLP`
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert%20Focus-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Strong%20Focus-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Working%20Knowledge-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 📊 Data Science & Data Analysis
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/EDA-Exploratory%20Analysis-20BEFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Cleaning-Preprocessing-00A67E?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Statistics-Analysis-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Preprocessing-Workflow-FF6F00?style=for-the-badge" />
+</p>
+
+---
+
+### 🤖 Machine Learning & AI
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supervised-Learning-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unsupervised-Learning-7B61FF?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Model-Evaluation-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model-Validation-0E75B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-Text%20Classification-FF4B4B?style=for-the-badge" />
+</p>
+
+---
 
 ### 🗄️ Databases & Data Engineering
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-`SQL` `MySQL` `MongoDB` `ETL` `Data Transformation` `Relational Databases`
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Queries-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ETL-Data%20Pipelines-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data-Transformation-00A67E?style=for-the-badge" />
+</p>
+
+---
 
 ### 📈 Data Visualization & Business Intelligence
 
-`Power BI` `Tableau` `Matplotlib` `Seaborn` `Plotly`
-
-### 🌐 Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,html,css,js,react,nodejs" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
-`Flask` `HTML` `CSS` `JavaScript` `React` `Node.js`
-
-### 🛠️ Tools & Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-`Git` `GitHub` `VS Code` `Linux`
+---
+
+### 🌐 Web & Application Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-Web%20Applications-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-Web-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 🛠️ Tools & Development Environment
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-Development-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 🎯 Core Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-🐍-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-🗄️-4479A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-🤖-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-📊-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-📈-F2C811?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>Data → Insights → Models → Real-World Solutions 🚀</b>
+</p>
+
 
 ---
 
