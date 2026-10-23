@@ -1,50 +1,81 @@
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:081A3A,50:124E96,100:00B4D8&height=185&section=header&text=Nusaik%20Ahamath&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Applied%20AI&descAlignY=62&descSize=17" alt="Nusaik Ahamath — Data Science, Machine Learning and Applied AI" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1100&color=38BDF8&center=true&vCenter=true&width=670&height=40&lines=Turning+data+into+useful+products;Building+AI+that+solves+real+problems;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve" alt="Typing animation: turning data into useful products" />
-![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0B2545?style=for-the-badge&logo=vercel&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-</div>
-👋 The person behind the projects
-I'm Nusaik Ahamath, a BSc (Hons) Data Science undergraduate at SLTC, Sri Lanka (expected graduation: 2028).
-I enjoy taking an idea from messy data to a working solution — exploring the data, building a model, and making the result useful through an application or dashboard.
-🔭 Building: Document-aware AI applications and practical ML projects
-🧠 Interested in: Retrieval-Augmented Generation (RAG), NLP, Machine Learning and Data Analytics
-🤝 Open to: Data Science, ML and Data Analyst internships and collaborations
-🌏 Based in: Sri Lanka
-> **My approach:** Understand the problem → explore the data → build → evaluate → improve.
-🚀 Selected projects
-Project	What it does	Stack
-📚 DocuMind AI	Ask questions across documents with retrieval and source-aware answers	Python · Streamlit · RAG · Gemini
-📊 Banking Transaction ETL	Turns transaction data into structured tables and dashboard-ready insights	Python · Pandas · MySQL · Power BI
-🛡️ Email Fraud Detection	Classifies emails using text processing and machine learning	Python · NLP · Scikit-learn · Flask
-✍️ Handwritten Digit Recognition	Recognizes handwritten digits with a neural-network approach	Python · Neural Networks · MNIST
-<div align="center">
-Explore all repositories →   •   View my portfolio →
-</div>
-🧰 My toolkit
-Data & ML
+<!-- GitHub profile README — nusaikaj -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:081A3A,50:124E96,100:00B4D8&amp;height=185&amp;section=header&amp;text=Nusaik%20Ahamath&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=37&amp;desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Applied%20AI&amp;descAlignY=62&amp;descSize=17" width="100%" alt="Nusaik Ahamath | Data Science, Machine Learning and Applied AI" />
+</p>
+
+<p align="center">
+  <a href="https://nusaik-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-0B2545?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/nusaik-ahamath"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/nusaikahamath"><img src="https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle" /></a>
+</p>
+
+### 👋 About me
+
+I'm **Nusaik Ahamath**, a **BSc (Hons) in Data Science undergraduate** at **SLTC, Sri Lanka** (expected graduation: **2028**).
+
+I enjoy transforming messy data into practical solutions — from exploratory analysis and model development to interactive apps and dashboards.
+
+- 🔭 **Currently building:** Document-aware AI applications and practical ML projects
+- 🧠 **Interested in:** RAG, NLP, machine learning, data analytics and data engineering
+- 🤝 **Open to:** Data Science, Machine Learning and Data Analyst internships
+- 📍 **Based in:** Sri Lanka
+
+> **How I work:** Understand the problem → explore the data → build → evaluate → improve.
+
+---
+
+### 🚀 Featured projects
+
+| Project | What it does | Tech stack |
+| --- | --- | --- |
+| 📚 **[DocuMind RAG](https://github.com/nusaikaj/DocuMind-RAG)** | Ask questions across uploaded documents using retrieval and source-aware answers. | Python · Streamlit · RAG |
+| 📊 **[Banking Transaction ETL](https://github.com/nusaikaj/banking-transaction-etl-pipeline)** | Transform transaction data for analytics and dashboard-ready insights. | Python · Pandas · MySQL · Power BI |
+| 🛡️ **[Email Fraud Detection](https://github.com/nusaikaj/Email-Fraud-Detection-System)** | Classify suspicious emails with text preprocessing and ML. | Python · NLP · Scikit-learn · Flask |
+| ✍️ **[Handwritten Digit Recognition](https://github.com/nusaikaj/digit_prediction)** | Recognize handwritten digits with a neural network. | Python · Neural Networks · MNIST |
+
+**[Explore all my repositories →](https://github.com/nusaikaj?tab=repositories)**
+
+---
+
+### 🧰 Tools & technologies
+
+**Programming & data**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-Analytics, apps & tools
+
+**Analytics, databases & development**
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3B4452?style=flat-square&logo=flask&logoColor=white)
-📈 GitHub at a glance
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nusaikaj&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=8B949E" alt="Nusaik's GitHub statistics" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusaikaj&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=8B949E" alt="Most-used repository languages" />
-<sub>Statistics are generated by an independent service and may occasionally be unavailable.</sub>
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 ---
-<div align="center">
-Let's build something useful.
-Portfolio · LinkedIn · Kaggle
-<sub>Learn with curiosity. Build with purpose. Improve through feedback.</sub>
-</div>
+
+### 📈 GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nusaikaj&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=38BDF8&amp;icon_color=38BDF8&amp;text_color=8B949E" alt="GitHub statistics" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusaikaj&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=38BDF8&amp;text_color=8B949E" alt="Languages across GitHub repositories" width="40%" />
+</p>
+
+*GitHub statistics are generated by a third-party service and may occasionally be unavailable.*
+
+---
+
+<p align="center">
+  <strong>Build with curiosity. Learn through projects. Improve through feedback.</strong>
+</p>
+
+<p align="center">
+  <a href="https://nusaik-portfolio.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/nusaik-ahamath">LinkedIn</a> ·
+  <a href="https://www.kaggle.com/nusaikahamath">Kaggle</a>
+</p>
