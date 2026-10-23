@@ -1,7 +1,11 @@
-<!-- GitHub profile README — nusaikaj -->
+<!-- Premium GitHub Profile — Nusaik Ahamath -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:081A3A,50:124E96,100:00B4D8&amp;height=185&amp;section=header&amp;text=Nusaik%20Ahamath&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=37&amp;desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Applied%20AI&amp;descAlignY=62&amp;descSize=17" width="100%" alt="Nusaik Ahamath | Data Science, Machine Learning and Applied AI" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A081A3A%2C50%3A124E96%2C100%3A00B4D8&amp;height=180&amp;section=header&amp;text=Nusaik+Ahamath&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Data+Science+%E2%80%A2+Machine+Learning+%E2%80%A2+Applied+AI&amp;descAlignY=63&amp;descSize=18" width="100%" alt="Nusaik Ahamath — Data Science, Machine Learning and Applied AI" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;weight=600&amp;duration=3200&amp;pause=1100&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=790&amp;height=45&amp;lines=From+messy+data+to+meaningful+insights%3BBuilding+practical+AI+%26+ML+applications%3BPython+%E2%80%A2+RAG+%E2%80%A2+NLP+%E2%80%A2+Data+Analytics%3BCurious+mind.+Real+projects.+Constant+growth." alt="Animated introduction: data science, AI and machine learning" />
 </p>
 
 <p align="center">
@@ -12,35 +16,56 @@
 
 ### 👋 About me
 
-I'm **Nusaik Ahamath**, a **BSc (Hons) in Data Science undergraduate** at **SLTC, Sri Lanka** (expected graduation: **2028**).
+I'm **Nusaik Ahamath**, a **BSc (Honours) in Data Science undergraduate** at **Sri Lanka Technological Campus (SLTC)**, graduating in **2028**.
 
-I enjoy transforming messy data into practical solutions — from exploratory analysis and model development to interactive apps and dashboards.
+I turn data into useful solutions — from exploring patterns and training models to building practical AI apps and dashboards.
 
-- 🔭 **Currently building:** Document-aware AI applications and practical ML projects
-- 🧠 **Interested in:** RAG, NLP, machine learning, data analytics and data engineering
+- 🔭 **Currently exploring:** Retrieval-Augmented Generation (RAG), NLP and applied machine learning
+- 🧩 **I enjoy:** Data analysis, Python, real-world problem solving and simple, usable interfaces
 - 🤝 **Open to:** Data Science, Machine Learning and Data Analyst internships
 - 📍 **Based in:** Sri Lanka
 
-> **How I work:** Understand the problem → explore the data → build → evaluate → improve.
+> **My approach:** Understand → Explore → Build → Evaluate → Improve.
 
 ---
 
-### 🚀 Featured projects
+### 🚀 Selected projects
 
-| Project | What it does | Tech stack |
-| --- | --- | --- |
-| 📚 **[DocuMind RAG](https://github.com/nusaikaj/DocuMind-RAG)** | Ask questions across uploaded documents using retrieval and source-aware answers. | Python · Streamlit · RAG |
-| 📊 **[Banking Transaction ETL](https://github.com/nusaikaj/banking-transaction-etl-pipeline)** | Transform transaction data for analytics and dashboard-ready insights. | Python · Pandas · MySQL · Power BI |
-| 🛡️ **[Email Fraud Detection](https://github.com/nusaikaj/Email-Fraud-Detection-System)** | Classify suspicious emails with text preprocessing and ML. | Python · NLP · Scikit-learn · Flask |
-| ✍️ **[Handwritten Digit Recognition](https://github.com/nusaikaj/digit_prediction)** | Recognize handwritten digits with a neural network. | Python · Neural Networks · MNIST |
+<!-- These project cards are stored inside this repository, so they do not depend on third-party card servers. -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nusaikaj/DocuMind-RAG">
+        <img src="assets/project-documind.svg" alt="DocuMind RAG: document question answering with source-aware retrieval" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nusaikaj/banking-transaction-etl-pipeline">
+        <img src="assets/project-etl.svg" alt="Banking Transaction ETL: Python Pandas and MySQL data pipeline" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nusaikaj/Email-Fraud-Detection-System">
+        <img src="assets/project-fraud.svg" alt="Email Fraud Detection: NLP and machine learning" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nusaikaj/digit_prediction">
+        <img src="assets/project-digit.svg" alt="Handwritten Digit Recognition: neural network and MNIST" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-**[Explore all my repositories →](https://github.com/nusaikaj?tab=repositories)**
+**[→ Explore all my repositories](https://github.com/nusaikaj?tab=repositories)**
 
 ---
 
-### 🧰 Tools & technologies
+### 🧰 Tech stack
 
-**Programming & data**
+**Languages & data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -48,7 +73,7 @@ I enjoy transforming messy data into practical solutions — from exploratory an
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**Analytics, databases & development**
+**Apps, analytics & databases**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -59,21 +84,27 @@ I enjoy transforming messy data into practical solutions — from exploratory an
 
 ---
 
-### 📈 GitHub activity
+### 📊 GitHub at a glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nusaikaj&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=38BDF8&amp;icon_color=38BDF8&amp;text_color=8B949E" alt="GitHub statistics" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusaikaj&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=38BDF8&amp;text_color=8B949E" alt="Languages across GitHub repositories" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nusaikaj&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=38BDF8&amp;icon_color=38BDF8&amp;text_color=8B949E" alt="Nusaik GitHub statistics" width="52%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusaikaj&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=38BDF8&amp;text_color=8B949E" alt="Most used repository languages" width="42%" />
 </p>
 
-*GitHub statistics are generated by a third-party service and may occasionally be unavailable.*
+<sub>*Stats are provided by a third-party service and might occasionally be unavailable.*</sub>
 
 ---
 
+### 🐍 Contributions in motion
+
+<!-- Uses your EXISTING contribution snake from the output branch. No new workflow required. -->
 <p align="center">
-  <strong>Build with curiosity. Learn through projects. Improve through feedback.</strong>
+  <img src="https://raw.githubusercontent.com/nusaikaj/nusaikaj/output/github-contribution-grid-snake.svg" alt="Nusaik's existing animated GitHub contribution snake" width="100%" />
 </p>
 
+---
+
+<p align="center"><strong>Build with curiosity. Learn through projects. Improve with feedback.</strong></p>
 <p align="center">
   <a href="https://nusaik-portfolio.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/nusaik-ahamath">LinkedIn</a> ·
